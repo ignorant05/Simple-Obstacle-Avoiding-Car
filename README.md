@@ -1,6 +1,6 @@
-# Obstacle-Avoiding Robot with L298N Motor Driver and Ultrasonic Sensor
+# Simple Obstacle-Avoiding Car with L298N Motor Driver and Ultrasonic Sensor
 
-This project implements an obstacle-avoiding robot using an Arduino Uno R3, L298N motor driver, and HC-SR04 ultrasonic sensor. The robot detects obstacles and automatically adjusts its movements by rotating or moving forward. It is powered by four AA batteries and controlled via a switch.
+This project implements an obstacle-avoiding Car using an Arduino Uno R3, L298N motor driver, and HC-SR04 ultrasonic sensor. The robot detects obstacles and automatically adjusts its movements by rotating or moving forward. It is powered by four AA batteries and controlled via a switch.
 
 ## Features
 
